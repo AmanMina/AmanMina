@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanMina
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning Web D
+- 👀 I’m interested in coding
+- 🌱 I’m currently pursuing M.Tech in CS from MNIT Jaipur
 - 💞️ I’m looking to collaborate on Cool Projects
 - 📫 Email:minaaman09@gmail.com
 
